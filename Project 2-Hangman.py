@@ -1,14 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        Hangman
-# Purpose:
-#
-# Author:      Devansh Rajput
-#
-# Created:     19-09-2022
-# Copyright:   (c) Devansh Rajput 2022
-# Licence:     <Devansh Rajput licence>
-#-------------------------------------------------------------------------------
-
 import random
 def hangman():
 
